@@ -1,6 +1,6 @@
 {
     "fluffy": {"type":"dragon", "color":"red", "temp_of_fire":96},
-    "Giffa": {"type":"giraffe", "height":3.9, "num_of_  dots":153},
+    "Giffa": {"type":"giraffe", "height":3.9, "num_of_dots":153},
     "Chatushi": {"type":"monster", "num_of_eyes":5, "num_of_teeth":33, "num_of_legs":4},
     "Arie": {"type":"giraffe", "height":4.4, "num_of_dots":134}
 }
