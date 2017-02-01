@@ -1,15 +1,9 @@
 def squares(x):
-    squares_list = []
-    for num in range(1, x+1):
-        squares_list.append(num*num)
-    return squares_list
+    return [x**2 for x in range(1, x+1)]
 
 
 def dict_squares(x):
-    dict_squares_list = {}
-    for num in range(1, x+1):
-        dict_squares_list[num] = num*num
-    return dict_squares_list
+    return {x: x**2 for x in range(1, x+1)}
 
 
 def main():
