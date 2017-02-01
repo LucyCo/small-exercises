@@ -20,7 +20,6 @@ class Dragon(Creature):
         self._color = color
         self._temp_of_fire = temp_of_fire
 
-
     def print_creature(self):
         print "This is a Dragon, is it %s and its' fire tempature is %d. Its' name is %s."%\
               (self._color, self._temp_of_fire, self.get_creature_name())
